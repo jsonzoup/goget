@@ -3,9 +3,9 @@ search the remote golang lib and get it
 在golang项目中查找依赖的远程库并下载
 
 # 使用
-执行main()方法即可
-或
-go run goget.go
+执行main()方法即可<br/>
+或<br/>
+go run goget.go<br/>
 示例执行结果如下：
 ~~~
 --------所有依赖的远程库的 go get 命令--------
