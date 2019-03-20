@@ -4,6 +4,7 @@ search the remote golang lib and get it
 
 # 使用
 执行main()方法即可
+或
 go run goget.go
 示例执行结果如下：
 ~~~
