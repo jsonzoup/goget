@@ -27,7 +27,7 @@ import (
 
 const  GITHUB = "github.com"
 // 不需要扫描的dir,分号分割
-const  NONE_SCAN_DIR = "views;static;vendor;docs;.idea;.mmwiki.session;conf;logs;data;Godeps;"
+const  NONE_SCAN_DIR = "page;views;js;css;static;vendor;docs;document;conf;config;logs;data;.idea;"
 // 项目根目录
 const PROJECT_ROOT_PATH = "D:/work/go/src/yourProject"
 
